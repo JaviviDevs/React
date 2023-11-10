@@ -1,12 +1,12 @@
 [submodule "CArgame-website"]
     path = CArgame-website
     url = https://github.com/JaviviDevs/CArgame-website.git
-[submodule "Javivi-React-components"]
-    path = Javivi-React-components
-    url = https://github.com/JaviviDevs/Javivi-React-components.git
+[submodule "Javivi-React-Components"]
+    path = Javivi-React-Components
+    url = https://github.com/JaviviDevs/Javivi-React-Components.git
 [submodule "Mi-Portfolio-Webpage"]
     path = Mi-Portfolio-Webpage
     url = https://github.com/JaviviDevs/Mi-Portfolio-Webpage.git
-[submodule "TFG-website"]
-    path = TFG-website
-    url = https://github.com/JaviviDevs/TFG-website.git
+[submodule "TFG-Website"]
+    path = TFG-Website
+    url = https://github.com/JaviviDevs/TFG-Website.git
