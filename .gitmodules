@@ -1,5 +1,5 @@
-[submodule "CArgame-website"]
-    path = CArgame-website
+[submodule "cArgame-website"]
+    path = cArgame-website
     url = https://github.com/JaviviDevs/CArgame-website.git
 [submodule "Javivi-React-Components"]
     path = Javivi-React-Components
